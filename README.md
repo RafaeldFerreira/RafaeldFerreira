@@ -1,4 +1,4 @@
-## <center>Rafael Diamantino Ferreira<center>
+## <div>Rafael Diamantino Ferreira<div>
 Junior NOC/SOC (Monitoring & Triage) | Python Automation | Luxembourg
 
 # 💫 About Me:
