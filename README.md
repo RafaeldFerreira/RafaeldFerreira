@@ -2,7 +2,7 @@
 Junior NOC/SOC (Monitoring & Triage) | Python Automation | Luxembourg
 
 # 💫 About Me:
-🔭 I’m currently working on: documenting my NOC monitoring work and improving my project READMEs<br><br>👯 I’m open to collaborate on: Python automation for ops/monitoring, documentation, and small network tooling<br><br>🌱 I’m currently learning: SOC/NOC workflows, alert tuning, and networking fundamentals (TCP/IP, VLANs, routing)<br><br>- also improving English/French for the Luxembourg job market and technical communication<br><br>💬 Ask me about: monitoring/alert triage, Python scripting for ops, and SQL basics<br><br>⚡ Fun fact: I enjoy turning noisy operational data into clear actions and checklists
+🔭 I’m currently working on: documenting my NOC monitoring work and improving my project READMEs<br>👯 I’m open to collaborate on: Python automation for ops/monitoring, documentation, and small network tooling<br>🌱 I’m currently learning: SOC/NOC workflows, alert tuning, and networking fundamentals (TCP/IP, VLANs, routing)<br>- also improving English/French for the Luxembourg job market and technical communication<br>💬 Ask me about: monitoring/alert triage, Python scripting for ops, and SQL basics<br>⚡ Fun fact: I enjoy turning noisy operational data into clear actions and checklists
 
 
 ## 🌐 Socials:
